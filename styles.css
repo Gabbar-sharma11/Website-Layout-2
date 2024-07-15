@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(195, 192, 188);
+    width: 100%;
+    height: 100vh;
+}
+main{
+    width: 100%;
+    padding: 0 10px ;
+
+}
+.div-1{
+    width: 100%;
+    background-color: white;
+    padding: 30px;
+    margin: 10px 0;
+}
+.div-2{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+}
+.div-3{
+    width: 100%;
+    background-color: white;
+    padding: 30px;
+    margin: 10px 0;
+}
